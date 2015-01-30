@@ -4,4 +4,4 @@ Testing offline commits.
 
 And some more, now syncing the changes.
 
-Change in master.
+Change in master and branch merged!
