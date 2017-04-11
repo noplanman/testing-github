@@ -1,12 +1,6 @@
 script:
 - exit 0
 notifications:
-  email:
-    on_success: always
-    on_failure: always
-    on_start: always
-    on_cancel: always
-    on_error: always
   webhooks:
     urls:
       secure: 8deDgBSl6iyROfeLp4TWdcP9N+G/kaBoZHXD/BO4WmjxIp2gSZ1F+xkQRTd4t+CXOesQY4KKOTeXtp8ImCbnk3ySzfwzEbmIcTi94rug0TYAMCpsZCj2/rqjkNnFNUyBah5q+kdsSZRI8n4tz6sq5QNvTFujSRuJtGqLFzJOif4Lyq2umu/YYRojVlxWsKWXUl432FtdrsWgH7G0vg7EvulDdfM31AHV59rxSSNZWyGAex0KA8oZ77pmothWMdQ/+5B3IZOsoxrWXYxgYtQn7fARmGrvbJ95jioZdfHK29Gw+ljcggPYIhSrZYFvJ7P34DI4Ukb9pX67eGAhHA+KKYMAaKfLuMepr8KoQFGf4JcdL7WILXGOTJglquuKwI3BrOpf6uk8HyCq8/YfVA/AdaVrYK9mqI8/XQkDax6t8Ymck8mOQseNtTyTEn4TsUb5eBQrr+1fFYoes1U6cbIOQ717FXCRW5dfPCrYwIO03h8lgP8CGQvzXmGD/UtUWIe+/zvi/QJQtbAqnxmIarZSiEh25LuvknCmE+e3UuGB2+/VU1eIc+eF7Nf88g05F+K6r+m5vZVYjpYgZF7CtBmNJpIbMAGC0r2+uYSr9Nyw4GWjHwYx7eb8qnZYUWXe36oPoOy0jnmfbQ2JQzczL6Eq4MlrLVfb3JnDEvISCF+IOPU=
