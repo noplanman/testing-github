@@ -4,10 +4,10 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 ## [2.0.0] - 2019-07-29
 ### Added
 - New stuff!
-- Changelog.
+- Changelog. (#8)
 ### Changed
 - Everything.
-- Using semver.
+- Using semver. (#8)
 ### Fixed
 - Whatever was broken.
 ### Security
